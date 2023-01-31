@@ -1,0 +1,15 @@
+#Write a note about what you found interesting about the similarities
+between cat, monkey and banana
+
+	I find it interesting how the algorithm categorises actual objects with an integer,
+	and scores them according to how similar each given object is to one another. I am unsure how
+	you would score something that often seems inherent. I find myself not being able to score many of these
+	objects accurately myself.
+
+#en_core_web_sm’ different from the model'en_core_web_md'.
+
+	In terms of the scores, when comparing the 'Complaints similarity' lists from both models
+	there were 16 of the same scores, and 15 differing scores. I am also prompted to use a larger
+	model due to the amount of data being compared ('en_core_web_sm')
+
+
