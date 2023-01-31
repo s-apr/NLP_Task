@@ -6,7 +6,7 @@ between cat, monkey and banana
 	you would score something that often seems inherent. I find myself not being able to score many of these
 	objects accurately myself.
 
-#en_core_web_sm’ different from the model'en_core_web_md'.
+#en_core_web_sm’ different from the model 'en_core_web_md'.
 
 	In terms of the scores, when comparing the 'Complaints similarity' lists from both models
 	there were 16 of the same scores, and 15 differing scores. I am also prompted to use a larger
